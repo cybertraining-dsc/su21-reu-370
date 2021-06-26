@@ -1,10 +1,10 @@
 ---
 date: 2021-06-16
-title: "Project: This is the Descriptive Title of the Example"
+title: "Project: Marine aninmal population analysis using AI"
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
-author: Kehinde Ezekiel
+author: Timia Williams
 github_url: https://github.com/cybertraining-dsc/su21-reu-370/edit/main/project/index.md
 resources:
 - src: "**.{png,jpg}"
@@ -16,7 +16,7 @@ resources:
 Status: draft, Type: Project
 
 
-Firstname Lastname, [su21-reu-370](https://github.com/cybertraining-dsc/su21-reu-370), [Edit](https://github.com/cybertraining-dsc/su21-reu-370/blob/main/project/index.md)
+Timia Williams, [su21-reu-370](https://github.com/cybertraining-dsc/su21-reu-370), [Edit](https://github.com/cybertraining-dsc/su21-reu-370/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
