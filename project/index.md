@@ -1,7 +1,7 @@
 ---
 date: 2021-06-16
 title: "Project: Marine aninmal population analysis using AI"
-linkTitle: Example
+linkTitle: "Aninmal population"
 tags: ["project", "reu"]
 description: "Here comes the abstract"
 author: Timia Williams
