@@ -21,8 +21,7 @@ Timia Williams, [su21-reu-370](https://github.com/cybertraining-dsc/su21-reu-370
 {{% pageinfo %}}
 
 ## Abstract
-
-Here comes a short abstract of the project that summarizes what it is about
+Fishes play an important role in the ecosystem. They store a large amount of nutrients in their tissues, recycle the nutrients they take in and execrete it back in the ecosystem vital for other producers. Fish images are captured by scuba divers, tourist, or underwater submarines. Sometimes it can be very difficult to get different angles because of the constant movement of the fish and not wanting to disturb it too much. On top of getting the right angles the images of marine animals are usually low-quality because of the u camera that is required for a good quality image can be expensive. Using AI will could potentially increase themarine population with more Cameras being mounted on fishing boats combined with advanced technology can help monitor legal and illegal catches.  
 
 Contents
 
@@ -33,12 +32,7 @@ Contents
 **Keywords:** tensorflow, example. 
 
 ## 1. Introduction
-
-Do not include this tip in your document:
-
-> Tip: Please note that an up to date version of these instructions is available at
->
-> * <https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md>
+It can be very difficult to obtain a large number of different complex species in a single aquatic environmet. Traditionally, it would take marine biologist years to not only collect the data but successfully identify the type of species that was obtained. Problems may arise including misidentifying species of fish since scientist estimate about 91 precent of ocean species have yet to be classified.   
 
 
 Here comes a convincing introduction to the problem
