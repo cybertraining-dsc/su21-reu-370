@@ -33,11 +33,12 @@ Contents
 
 ## 1. Introduction
 It can be very difficult to obtain a large number of different complex species in a single aquatic environmet. Traditionally, it would take marine biologist years to not only collect the data but successfully identify the type of species that was obtained. Problems may arise including misidentifying species of fish since scientist estimate about 91 precent of ocean species have yet to be classified. 
-Nowa
+
 
 Here comes a convincing introduction to the problem
 
-## 2. Machiene learning in fishing species. 
+## 2. Machiene learning in fish species. 
+Aquatic Ecologist often count animals to keep up the population count to provide critical conservation and management. Since the creation of underwater cameras and other recording equipment, underwater devices has allowed scientist to safely and efficiently without the disadvantages that comes with manually entering data ultimately saving lots of time, labor, and money. The use of machiene learning to automate image processing has its benefits but has rarely been adopted in aquatic studies.   
 
 ```
 
