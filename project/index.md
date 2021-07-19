@@ -21,7 +21,7 @@ Timia Williams, [su21-reu-370](https://github.com/cybertraining-dsc/su21-reu-370
 {{% pageinfo %}}
 
 ## Abstract
-Fishes play an important role in the ecosystem. They store a large amount of nutrients in their tissues, recycle the nutrients they take in and execrete it back in the ecosystem vital for other producers. Fish images are captured by scuba divers, tourist, or underwater submarines. Sometimes it can be very difficult to get different angles because of the constant movement of the fish and not wanting to disturb it too much. On top of getting the right angles the images of marine animals are usually low-quality because of the u camera that is required for a good quality image can be expensive. Using AI will could potentially increase themarine population with more Cameras being mounted on fishing boats combined with advanced technology can help monitor legal and illegal catches.  
+Fishes play an important role in the ecosystem. They store a large amount of nutrients in their tissues, recycle the nutrients they take in and execrete it back in the ecosystem vital for other producers. Fish images are captured by scuba divers, tourist, or underwater submarines. Sometimes it can be very difficult to get different angles because of the constant movement of the fish and not wanting to disturb it too much. On top of getting the right angles the images of marine animals are usually low-quality because of the u camera that is required for a good quality image can be expensive. Using AI could potentially increase the marine population using the images obtained from the aquarium combined with advanced technology will able to help monitor legal and illegal fishing.  
 
 Contents
 
@@ -32,30 +32,16 @@ Contents
 **Keywords:** tensorflow, example. 
 
 ## 1. Introduction
-It can be very difficult to obtain a large number of different complex species in a single aquatic environmet. Traditionally, it would take marine biologist years to not only collect the data but successfully identify the type of species that was obtained. Problems may arise including misidentifying species of fish since scientist estimate about 91 precent of ocean species have yet to be classified.   
-
+It can be very difficult to obtain a large number of different complex species in a single aquatic environmet. Traditionally, it would take marine biologist years to not only collect the data but successfully identify the type of species that was obtained. Problems may arise including misidentifying species of fish since scientist estimate about 91 precent of ocean species have yet to be classified. 
+Nowa
 
 Here comes a convincing introduction to the problem
 
-## 2. Report Format
-
-The report is written in (hugo) markdown and not commonmark. As such some features are not visible in GitHub. You can 
-set up hugo on your local computer if you want to see how it renders or commit and wait 10 minutes once your report is 
-bound into cybertraining.
-
-To set up the report, you must first `replace` the word `hid-example in this example report with your hid. the hid will 
-look something like `sp21-599-111`
-
-It is to be noted that markdown works best if you include an empty line before and after each context change. 
-Thus the following is wrong:
+## 2. Machiene learning in fishing species. 
 
 ```
-# This is My Headline
-This author does ignore proper markdown while not using empty lines between context changes
-1. This is because this author ignors all best practices
-```
 
-Instead, this should be 
+ 
 
 ```
 # This is My Headline
