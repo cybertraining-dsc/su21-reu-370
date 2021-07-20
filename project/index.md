@@ -32,14 +32,13 @@ Contents
 **Keywords:** tensorflow, example. 
 
 ## 1. Introduction
-It can be very difficult to obtain a large number of different complex species in a single aquatic environmet. Traditionally, it would take marine biologist years to not only collect the data but successfully identify the type of species that was obtained. Problems may arise including misidentifying species of fish since scientist estimate about 91 precent of ocean species have yet to be classified. 
+It can be very difficult to obtain a large number of different complex species in a single aquatic environmet. Traditionally, it would take marine biologist years to not only collect the data but successfully identify the type of species that was obtained. Problems may arise including misidentifying species of fish since scientist estimate about 91 precent of ocean species have yet to be classified. Now and days, Arrficial intellegance and machiene learning has been well used for detection and classification in images. In this project, I will propose to use machiene learning techniques to anaylyze the images obtained from the Georgia Aquarium to identify the legal and illegal fishing.  
 
 
 Here comes a convincing introduction to the problem
 
 ## 2. Machiene learning in fish species. 
-Aquatic Ecologist often count animals to keep up the population count to provide critical conservation and management. Since the creation of underwater cameras and other recording equipment, underwater devices has allowed scientist to safely and efficiently without the disadvantages that comes with manually entering data ultimately saving lots of time, labor, and money. The use of machiene learning to automate image processing has its benefits but has rarely been adopted in aquatic studies.   
-
+Aquatic Ecologist often count animals to keep up the population count to provide critical conservation and management. Since the creation of underwater cameras and other recording equipment, underwater devices has allowed scientist to safely and efficiently without the disadvantages that comes with manually entering data ultimately saving lots of time, labor, and money. The use of machiene learning to automate image processing has its benefits but has rarely been adopted in aquatic studies. With using efforts to use deep learning methods, classification of specific species could potentially increase. According to studies with using deep learning in Australian ocean waters,  Attempts to classify tropical reef fish have achieved high levels of performance and have also outperformed humans in species recognition (Villon et al., 2018). Not only will deep learning help wit the detection of species but it will be used to answer even broader questions such as getting a population count, locatoion of species, its abundance and how it appear to be thriving. Since Machiene learning and deep learning are often defined as one, both learning methods will be used to analyze the images and find patterns on my data.      
 ```
 
  
@@ -101,7 +100,7 @@ Your project must include a benchmark. The easiest is to use cloudmesh-common [^
  
 ## 6. Conclusion
 
-A convincing but not fake conclusion should summarize what the conclusion of the project is.
+Deep learning methods provide a faster, cheaper, and more accurate alternative to manual data analysis methods currently used to monitor and assess animal abundance and have much to offer the field of aquatic ecology.
 
 ## 8. Acknowledgments
 
@@ -119,4 +118,6 @@ the first square bracket.
 
 [^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>
+      
+      https://www.frontiersin.org/articles/10.3389/fmars.2020.00429/full
 
