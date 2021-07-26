@@ -41,9 +41,9 @@ Aquatic ecologists often count animals to keep up the population count of provid
 
 
 ## 3. Sample of Image from my own Collected Data
-<img alt="Figure1" src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1566.jpg" width="30%">
-<img alt="Figure1" src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1583.jpg" width="30%">
-<img alt="Figure1" src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1453.jpg" width="30%">
+<img alt="Figure1" src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1566.jpg" height="400px">
+<img alt="Figure1" src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1583.jpg" height="400px">
+<img alt="Figure1" src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1453.jpg" height="400px">
 
 **Figure 1:** this image have colors that are hard to classify with AI because the background have similar colors.
    
