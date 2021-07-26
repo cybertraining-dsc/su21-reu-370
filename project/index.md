@@ -42,7 +42,7 @@ Aquatic ecologists often count animals to keep up the population count of provid
 
 ## 3. Sample of Images
 
-![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/IMG_1453.jpg)
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-370/blob/main/project/images/IMG_1453.jpg)
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
    
