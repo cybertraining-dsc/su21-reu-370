@@ -35,32 +35,40 @@ Contents
 
 It can be challenging to obtain a large number of different complex species in a single aquatic environment. Traditionally, it would take marine biologists years to collect the data and successfully classify the type of species obtained [1]. Scientist says that more than 90 percent of the ocean's species are still undiscovered, with some estimating that there are anywhere between a few hundred thousand and a few million more to be discovered" (National Geographic Society). Currently, scientists know of around 226,000 ocean species.   Now and days, Artificial intelligence and machine learning have been well used for detection and classification in images. In this project, I will propose to use machine learning techniques to analyze the images obtained from the Georgia Aquarium to identify legal and illegal fishing. 
 
+
 ## 2. Machine learning in fish species. 
 
 Aquatic ecologists often count animals to keep up the population count of providing critical conservation and management. Since the creation of underwater cameras and other recording equipment, underwater devices have allowed scientists to safely and efficiently classify fishes images without the disadvantages of manually entering data, ultimately saving lots of time, labor, and money. The use of machine learning to automate image processing has its benefits but has rarely been adopted in aquatic studies. With using efforts to use deep learning methods, the classification of specific species could potentially increase. According to studies using deep learning in Australian ocean waters,  Attempts to classify tropical reef fish have achieved high-performance levels and have also outperformed humans in species recognition (Villon et al., 2018). Deep learning will help with the detection and classification. However, it will be used to answer even broader questions such as getting a population count, the location of species, its abundance, and how it appears to be thriving. Since Machine learning and deep learning are often defined as one, both learning methods will be used to analyze the images and find patterns on my data.      
 
-
-## 3. Sample of Images from my Own Collected Data
-
-<img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1566.jpg" width="30%"> <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1583.jpg" width="30%"> <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1453.jpg" width="30%">
-
-**Figure 1:** These images are samples of my personal data which is made up of images of fishes taken at the Georgia Acquarium.
    
-## 4. Datasets
+## 3. Datasets
 
 I used two datasets in my project. The first dataset includes the pictures that I took at the Georgia Acquarium. That dataset was used for testing. The second dataset used was a fish dataset from kaggle which contains 9 different seafood types (Black Sea Sprat, Gilt-Head Bream, Hourse Mackerel, Red Mullet, Red Sea Bream, Sea Bass, Shrimp, Striped Red Mullet, Trout). For each type, there are 1000 augmented images and their pair-wise augmented ground truths.
 
 The link to access the dataset I used from kaggle is https://www.kaggle.com/crowww/a-large-scale-fish-dataset
 
-## 5. Conclusion
+
+## 4. Sample of Images from my Own Collected Data
+
+<img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1566.jpg" width="30%"> <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1583.jpg" width="30%"> <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1453.jpg" width="30%">
+
+**Figure 1:** These images are samples of my personal data which is made up of images of fishes taken at the Georgia Acquarium.
+
+
+## 5. Implementation
+
+
+
+
+## 6. Conclusion
 
 Deep learning methods provide a faster, cheaper, and more accurate alternative to manual data analysis methods currently used to monitor and assess animal abundance and have much to offer the field of aquatic ecology.
 
-## 6. Acknowledgments
+## 7. Acknowledgments
 
 Please add acknowledgments to all that contributed or helped on this project.  
 
-## 7. References
+## 8. References
 
 [^1]:  McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) “Fish extinction alter nutrient recycling in tropical freshwaters” [ Online resource]
 
