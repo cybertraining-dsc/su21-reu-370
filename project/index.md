@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Project: Marine aninmal population analysis using AI"
+title: "Project: Fish Dectection and Classification analysis using AI"
 linkTitle: "Aninmal population"
 tags: ["project", "reu"]
 description: "Here comes the abstract"
@@ -21,7 +21,7 @@ Timia Williams, [su21-reu-370](https://github.com/cybertraining-dsc/su21-reu-370
 {{% pageinfo %}}
 
 ## Abstract
-Fishes play an important role in the ecosystem. They store a large amount of nutrients in their tissues, recycle the nutrients they take in and execrete it back in the ecosystem vital for other producers. Fish images are captured by scuba divers, tourist, or underwater submarines. Sometimes it can be very difficult to get different angles because of the constant movement of the fish and not wanting to disturb it too much. In addition to getting the right angles, the images of marine animals are usually low-quality because of the water. Underwater cameras that is required for a good quality image can be expensive. Using AI could potentially increase the marine population by the help of classification by testing the usage of machene learning using the images obtained from the aquarium combined with advanced technology.   
+Fishes play an important role in the ecosystem.  Fish play an important role in nutrient cycles because they store a large proportion of ecosystem nutrients in their tissues, transport nutrients farther than other aquatic animals and excrete nutrients in dissolved forms that are readily available to primary producers ( McIntyre P.B 1). Fish images are captured by scuba divers, tourist, or underwater submarines. Sometimes it can be very difficult to get different angles because of the constant movement of the fish and not wanting to disturb it too much. In addition to getting the right angles, the images of marine animals are usually low-quality because of the water. Underwater cameras that is required for a good quality image can be expensive. Using AI could potentially increase the marine population by the help of classification by testing the usage of machene learning using the images obtained from the aquarium combined with advanced technology.   
 
 Contents
 
@@ -108,9 +108,7 @@ Please add acknowledgments to all that contributed or helped on this project.
 
 ## 9. References
 
-Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
-one point automatically change the references from superscript to square brackets it is best to introduce a space before 
-the first square bracket.
+McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) “Fish extinction alter nutrient recycling in tropical freshwaters” [ Online resource]
 
 [^1]: Use of energy explained - Energy use in homes, [Online resource] 
       <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
