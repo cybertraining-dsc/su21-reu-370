@@ -21,7 +21,7 @@ Timia Williams, [su21-reu-370](https://github.com/cybertraining-dsc/su21-reu-370
 {{% pageinfo %}}
 
 ## Abstract
-Fishes play an important role in the ecosystem.  Fish play an important role in nutrient cycles because they store a large proportion of ecosystem nutrients in their tissues, transport nutrients farther than other aquatic animals and excrete nutrients in dissolved forms that are readily available to primary producers ( McIntyre P.B 1). Fish images are captured by scuba divers, tourist, or underwater submarines. Sometimes it can be very difficult to get different angles because of the constant movement of the fish and not wanting to disturb it too much. In addition to getting the right angles, the images of marine animals are usually low-quality because of the water. Underwater cameras that is required for a good quality image can be expensive. Using AI could potentially increase the marine population by the help of classification by testing the usage of machene learning using the images obtained from the aquarium combined with advanced technology.   
+Fishes play an important role in the ecosystem.  Fish play an important role in nutrient cycles because they store a large proportion of ecosystem nutrients in their tissues, transport nutrients farther than other aquatic animals and excrete nutrients in dissolved forms that are readily available to primary producers. Fish images are captured by scuba divers, tourist, or underwater submarines. different angles of fishes image can be very difficult to get because of the constant movement of the fish. In addition to getting the right angles, the images of marine animals are usually low-quality because of the water. Underwater cameras that is required for a good quality image can be expensive. Using AI could potentially increase the marine population by the help of classification by testing the usage of machine learning using the images obtained from the aquarium combined with advanced technology. We collect 164 fish images data from Georgia accuarium to look at the different movements. 
 
 Contents
 
@@ -32,69 +32,28 @@ Contents
 **Keywords:** tensorflow, example. 
 
 ## 1. Introduction
-It can be very difficult to obtain a large number of different complex species in a single aquatic environmet. Traditionally, it would take marine biologist years to not only collect the data but successfully classify the type of species that was obtained. Scientist says that more than 90 percent of the ocean’s species are still undiscovered, with some estimating that there are anywhere between a few hundred thousand and a few million more to be discovered" (National Geographic Society). Currently, scientists know of around 226,000 ocean species.   Now and days, Arrficial intellegance and machiene learning has been well used for detection and classification in images. In this project, I will propose to use machiene learning techniques to anaylyze the images obtained from the Georgia Aquarium to identify the legal and illegal fishing.  
 
-
-Here comes a convincing introduction to the problem
+It can be challenging to obtain a large number of different complex species in a single aquatic environment. Traditionally, it would take marine biologists years to collect the data and successfully classify the type of species obtained [1]. Scientist says that more than 90 percent of the ocean's species are still undiscovered, with some estimating that there are anywhere between a few hundred thousand and a few million more to be discovered" (National Geographic Society). Currently, scientists know of around 226,000 ocean species.   Now and days, Artificial intelligence and machine learning have been well used for detection and classification in images. In this project, I will propose to use machine learning techniques to analyze the images obtained from the Georgia Aquarium to identify legal and illegal fishing. 
 
 ## 2. Machine learning in fish species. 
-Aquatic Ecologist often count animals to keep up the population count to provide critical conservation and management. Since the creation of underwater cameras and other recording equipment, underwater devices has allowed scientist to safely and efficiently without the disadvantages that comes with manually entering data ultimately saving lots of time, labor, and money. The use of machiene learning to automate image processing has its benefits but has rarely been adopted in aquatic studies. With using efforts to use deep learning methods, classification of specific species could potentially increase. According to studies with using deep learning in Australian ocean waters,  Attempts to classify tropical reef fish have achieved high levels of performance and have also outperformed humans in species recognition (Villon et al., 2018). Not only will deep learning help with the detection and classification but it will be used to answer even broader questions such as getting a population count, locatoion of species, its abundance and how it appear to be thriving. Since Machine learning and deep learning are often defined as one, both learning methods will be used to analyze the images and find patterns on my data.      
-```
 
- 
+Aquatic ecologists often count animals to keep up the population count of providing critical conservation and management. Since the creation of underwater cameras and other recording equipment, underwater devices have allowed scientists to safely and efficiently classify fishes images without the disadvantages of manually entering data, ultimately saving lots of time, labor, and money. The use of machine learning to automate image processing has its benefits but has rarely been adopted in aquatic studies. With using efforts to use deep learning methods, the classification of specific species could potentially increase. According to studies using deep learning in Australian ocean waters,  Attempts to classify tropical reef fish have achieved high-performance levels and have also outperformed humans in species recognition (Villon et al., 2018). Deep learning will help with the detection and classification. However, it will be used to answer even broader questions such as getting a population count, the location of species, its abundance, and how it appears to be thriving. Since Machine learning and deep learning are often defined as one, both learning methods will be used to analyze the images and find patterns on my data.      
 
-```
-# This is My Headline
 
-We do not ignore proper markdown while using empty lines between context changes
+## 3. Sample of Images
 
-1. This is because we encourage best practices to cause issues.
-```
-
-## 2.1. GitHub Actions
-
-When going to GitHub Actions you will see a report is autmatically generated with some help on improving your markdown. 
-We will not review any document that does not pass this check.
-
-## 2.2. PAst Copy from Word or other Editors is a Disaster!
-
-We recommend that you sue a proper that is integrated with GitHub or you use the commandline tools. We may include 
-comments into your document that you will have to fix, If you juys past copy you will 
-
-1. Not learn how to use GitHub properly and we deduct points
-2. Overwrite our coments that you than may miss and may result in point deductions as you have not addressed them.
-
-## 2.3. Report or Project
-
-You have two choices for the final project. 
-
-1. Project, That is a final report that includes code.
-2. Report, that is a final project without code.
-   
-YOu will be including the type of the project as a prefix to your title, as well as in the Type tag
-at the beginning of your project.
-
-## 3. Using Images
-
-![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
+![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/IMG_1453.jpg)
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
-
-## 4. Using itemized lists only where needed
-
-Remember this is not a powerpoint presentation, but a report so we recommend
-
-1. Use itemized or enumeration lists sparingly
-2. When using bulleted lists use * and not - 
    
-## 5. Datasets
+## 4. Datasets
 
 Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
 However, if the data is publicly available you program must contain a download function instead that you customize.
 Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
 the download function.
 
-## 6. Benchmark
+## 5. Benchmark
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
  
@@ -102,19 +61,20 @@ Your project must include a benchmark. The easiest is to use cloudmesh-common [^
 
 Deep learning methods provide a faster, cheaper, and more accurate alternative to manual data analysis methods currently used to monitor and assess animal abundance and have much to offer the field of aquatic ecology.
 
-## 8. Acknowledgments
+## 7. Acknowledgments
 
 Please add acknowledgments to all that contributed or helped on this project.  
 
-## 9. References
+## 8. References
 
-McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) “Fish extinction alter nutrient recycling in tropical freshwaters” [ Online resource]
+[^1]:  McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) “Fish extinction alter nutrient recycling in tropical freshwaters” [ Online resource]
 
-[^1]: Use of energy explained - Energy use in homes, [Online resource] 
+
+[^2]:  Use of energy explained - Energy use in homes, [Online resource] 
       <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
 
 
-[^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
+[^3]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>
       
       https://www.frontiersin.org/articles/10.3389/fmars.2020.00429/full
