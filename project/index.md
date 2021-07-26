@@ -48,7 +48,8 @@ Aquatic ecologists often count animals to keep up the population count of provid
    
 ## 4. Datasets
 
-I have used two datasets in my project. The first dataset includes the pictures that I took at the georgia acquarium. That dataset will be used for testing. The second dataset was used researched using kaggle for validation. 
+I have used two datasets in my project. The first dataset includes the pictures that I took at the georgia acquarium. That dataset will be used for testing. The second dataset was used researched using kaggle for validation. The dataset from kaggle contains "9 different seafood types. For each class, there are 1000 augmented images and their pair-wise augmented ground truths" (Turkan).
+The link to access the dataset I used from kaggle is https://www.kaggle.com/crowww/a-large-scale-fish-dataset
 
 ## 5. Conclusion
 
@@ -72,7 +73,8 @@ Please add acknowledgments to all that contributed or helped on this project.
       
       https://www.frontiersin.org/articles/10.3389/fmars.2020.00429/full
       
-[^4]:  
+[^4]:  Ulucan, D. Karakaya, M. Turkan Department of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey Corresponding author: M. Turkan 
+https://www.kaggle.com/crowww/a-large-scale-fish-dataset
 
 
 [^5]:  
