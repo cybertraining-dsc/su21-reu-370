@@ -21,7 +21,7 @@ Timia Williams, [su21-reu-370](https://github.com/cybertraining-dsc/su21-reu-370
 {{% pageinfo %}}
 
 ## Abstract
-Fishes play an important role in the ecosystem. They store a large amount of nutrients in their tissues, recycle the nutrients they take in and execrete it back in the ecosystem vital for other producers. Fish images are captured by scuba divers, tourist, or underwater submarines. Sometimes it can be very difficult to get different angles because of the constant movement of the fish and not wanting to disturb it too much. On top of getting the right angles the images of marine animals are usually low-quality because of the u camera that is required for a good quality image can be expensive. Using AI could potentially increase the marine population using the images obtained from the aquarium combined with advanced technology will able to help monitor legal and illegal fishing.  
+Fishes play an important role in the ecosystem. They store a large amount of nutrients in their tissues, recycle the nutrients they take in and execrete it back in the ecosystem vital for other producers. Fish images are captured by scuba divers, tourist, or underwater submarines. Sometimes it can be very difficult to get different angles because of the constant movement of the fish and not wanting to disturb it too much. In addition to getting the right angles, the images of marine animals are usually low-quality because of the water. Underwater cameras that is required for a good quality image can be expensive. Using AI could potentially increase the marine population by the help of classification by testing the usage of machene learning using the images obtained from the aquarium combined with advanced technology.   
 
 Contents
 
