@@ -56,6 +56,7 @@ The link to access the dataset I used from kaggle is https://www.kaggle.com/crow
 
 ## 3.2. Sample of Images from Large Scale Fish Dataset
 
+![Figure 2](https://github.com/cybertraining-dsc/su21-reu-364/raw/main/project/images/CNNDiagram.png)
 
 
 
