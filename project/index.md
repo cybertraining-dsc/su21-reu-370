@@ -1,7 +1,7 @@
 ---
 date: 2021-06-16
-title: "Project: Fish Dectection and Classification analysis using AI"
-linkTitle: "Aninmal population"
+title: "Project: Fish Classification Using AI"
+linkTitle: "fish classification"
 tags: ["project", "reu"]
 description: "Here comes the abstract"
 author: Timia Williams
@@ -41,7 +41,7 @@ Aquatic ecologists often count animals to keep up the population count of provid
 
 
 ## 3. Sample of Image from my own Collected Data
-![Figure 1] https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1566.jpg
+![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1566.jpg)
 
 
 **Figure 1:** this image have colors that are hard to classify with AI because the background have similar colors.
