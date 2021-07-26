@@ -40,11 +40,11 @@ It can be challenging to obtain a large number of different complex species in a
 Aquatic ecologists often count animals to keep up the population count of providing critical conservation and management. Since the creation of underwater cameras and other recording equipment, underwater devices have allowed scientists to safely and efficiently classify fishes images without the disadvantages of manually entering data, ultimately saving lots of time, labor, and money. The use of machine learning to automate image processing has its benefits but has rarely been adopted in aquatic studies. With using efforts to use deep learning methods, the classification of specific species could potentially increase. According to studies using deep learning in Australian ocean waters,  Attempts to classify tropical reef fish have achieved high-performance levels and have also outperformed humans in species recognition (Villon et al., 2018). Deep learning will help with the detection and classification. However, it will be used to answer even broader questions such as getting a population count, the location of species, its abundance, and how it appears to be thriving. Since Machine learning and deep learning are often defined as one, both learning methods will be used to analyze the images and find patterns on my data.      
 
 
-## 3. Sample of Images
+## 3. Sample of Image from my own Collected Data
 
 ![Figure 1](https://github.com/cybertraining-dsc/su21-reu-370/blob/main/project/images/IMG_1453.jpg)
 
-**Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
+**Figure 1:** this image have colors that are hard to classify with AI because the background have similar colors.
    
 ## 4. Datasets
 
