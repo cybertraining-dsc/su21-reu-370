@@ -48,7 +48,7 @@ Aquatic ecologists often count animals to keep up the population count of provid
    
 ## 4. Datasets
 
-write about your understanding of the code you have in google colab. 
+I have used two datasets in my project. The first dataset includes the pictures that I took at the georgia acquarium. That dataset will be used for testing. The second dataset was used researched using kaggle for validation. 
 
 ## 5. Conclusion
 
