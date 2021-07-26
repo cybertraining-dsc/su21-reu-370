@@ -48,7 +48,8 @@ Aquatic ecologists often count animals to keep up the population count of provid
    
 ## 4. Datasets
 
-I have used two datasets in my project. The first dataset includes the pictures that I took at the georgia acquarium. That dataset will be used for testing. The second dataset was used researched using kaggle for validation. The dataset from kaggle contains "9 different seafood types. For each class, there are 1000 augmented images and their pair-wise augmented ground truths" (Turkan).
+I used two datasets in my project. The first dataset includes the pictures that I took at the Georgia Acquarium. That dataset was used for testing. The second dataset used was a fish dataset from kaggle which contains 9 different seafood types (Black Sea Sprat, Gilt-Head Bream, Hourse Mackerel, Red Mullet, Red Sea Bream, Sea Bass, Shrimp, Striped Red Mullet, Trout). For each type, there are 1000 augmented images and their pair-wise augmented ground truths.
+
 The link to access the dataset I used from kaggle is https://www.kaggle.com/crowww/a-large-scale-fish-dataset
 
 ## 5. Conclusion
