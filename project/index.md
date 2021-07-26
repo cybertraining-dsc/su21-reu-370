@@ -48,24 +48,17 @@ Aquatic ecologists often count animals to keep up the population count of provid
    
 ## 4. Datasets
 
-Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
-However, if the data is publicly available you program must contain a download function instead that you customize.
-Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
-the download function.
+write about your understanding of the code you have in google colab. 
 
-## 5. Benchmark
-
-Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
- 
-## 6. Conclusion
+## 5. Conclusion
 
 Deep learning methods provide a faster, cheaper, and more accurate alternative to manual data analysis methods currently used to monitor and assess animal abundance and have much to offer the field of aquatic ecology.
 
-## 7. Acknowledgments
+## 6. Acknowledgments
 
 Please add acknowledgments to all that contributed or helped on this project.  
 
-## 8. References
+## 7. References
 
 [^1]:  McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) “Fish extinction alter nutrient recycling in tropical freshwaters” [ Online resource]
 
@@ -78,4 +71,13 @@ Please add acknowledgments to all that contributed or helped on this project.
       <https://github.com/cloudmesh/cloudmesh-common>
       
       https://www.frontiersin.org/articles/10.3389/fmars.2020.00429/full
+      
+[^4]:  
+
+
+[^5]:  
+
+
+[^6]: 
+      
 
