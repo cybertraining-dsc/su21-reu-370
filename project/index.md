@@ -60,22 +60,17 @@ The link to access the dataset I used from kaggle is https://www.kaggle.com/crow
 
 
 
-## 4. Implementation
-
-
-
-
-## 5. Conclusion
+## 4. Conclusion
 
 Deep learning methods provide a faster, cheaper, and more accurate alternative to manual data analysis methods currently used to monitor and assess animal abundance and have much to offer the field of aquatic ecology.
 
 
-## 6. Acknowledgments
+## 5. Acknowledgments
 
-Please add acknowledgments to all that contributed or helped on this project.  
+ 
 
 
-## 7. References
+## 6. References
 
 [^1]:  McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) “Fish extinction alter nutrient recycling in tropical freshwaters” [ Online resource]
 
