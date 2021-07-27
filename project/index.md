@@ -36,9 +36,9 @@ Contents
 It can be challenging to obtain a large number of different complex species in a single aquatic environment. Traditionally, it would take marine biologists years to collect the data and successfully classify the type of species obtained [1]. Scientist says that more than 90 percent of the ocean's species are still undiscovered, with some estimating that there are anywhere between a few hundred thousand and a few million more to be discovered" (National Geographic Society). Currently, scientists know of around 226,000 ocean species.   Now and days, Artificial intelligence and machine learning have been well used for detection and classification in images. In this project, I will propose to use machine learning techniques to analyze the images obtained from the Georgia Aquarium to identify legal and illegal fishing. 
 
 
-## 2. Machine learning in fish species. 
+## 2. Machine learning in fish species.  
 
-Aquatic ecologists often count animals to keep up the population count of providing critical conservation and management. Since the creation of underwater cameras and other recording equipment, underwater devices have allowed scientists to safely and efficiently classify fishes images without the disadvantages of manually entering data, ultimately saving lots of time, labor, and money. The use of machine learning to automate image processing has its benefits but has rarely been adopted in aquatic studies. With using efforts to use deep learning methods, the classification of specific species could potentially increase. According to studies using deep learning in Australian ocean waters,  Attempts to classify tropical reef fish have achieved high-performance levels and have also outperformed humans in species recognition (Villon et al., 2018). Deep learning will help with the detection and classification. However, it will be used to answer even broader questions such as getting a population count, the location of species, its abundance, and how it appears to be thriving. Since Machine learning and deep learning are often defined as one, both learning methods will be used to analyze the images and find patterns on my data.      
+Aquatic ecologists often count animals to keep up the population count of providing critical conservation and management. Since the creation of underwater cameras and other recording equipment, underwater devices have allowed scientists to safely and efficiently classify fishes images without the disadvantages of manually entering data, ultimately saving lots of time, labor, and money. The use of machine learning to automate image processing has its benefits but has rarely been adopted in aquatic studies. With using efforts to use deep learning methods, the classification of specific species could potentially increase. In fact, there is a study done in Australia's ocean waters that classification of fish through deep learning was more efficient that manual human classification. In the study to test the abundance of different species, "The computer’s performance in determining abundance was 7.1% better than human marine experts and 13.4% better than citizen scientists in single image test datasets, and 1.5 and 7.8% higher in video datasets, respectively" ( Deep learning will help with the detection and classification. However, it will be used to answer even broader questions such as getting a population count, the location of species, its abundance, and how it appears to be thriving. Since Machine learning and deep learning are often defined as one, both learning methods will be used to analyze the images and find patterns on my data.      
 
    
 ## 3. Datasets
@@ -48,7 +48,7 @@ I used two datasets in my project. The first dataset includes the pictures that 
 The link to access the dataset I used from kaggle is https://www.kaggle.com/crowww/a-large-scale-fish-dataset
 
 
-## 3.1. Sample of Images from Personal Dataset
+## 3.1. Sample of Images of Personal Dataset
 
 <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1566.jpg" width="30%"> <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1583.jpg" width="30%"> <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1453.jpg" width="30%">
 
@@ -73,11 +73,10 @@ Deep learning methods provide a faster, cheaper, and more accurate alternative t
 ## 6. References
 
 [^1]:  McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) “Fish extinction alter nutrient recycling in tropical freshwaters” [ Online resource]
+       https://www.pnas.org/content/104/11/4461
 
-
-[^2]:  Use of energy explained - Energy use in homes, [Online resource] 
-      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
-
+[^2]:  National Geographic Society (2021) "Ocean" [Online resource]
+       https://www.nationalgeographic.org/encyclopedia/ocean/
 
 [^3]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>
@@ -85,10 +84,10 @@ Deep learning methods provide a faster, cheaper, and more accurate alternative t
       https://www.frontiersin.org/articles/10.3389/fmars.2020.00429/full
       
 [^4]:  Ulucan, D. Karakaya, M. Turkan Department of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey Corresponding author: M. Turkan 
-https://www.kaggle.com/crowww/a-large-scale-fish-dataset
+       https://www.kaggle.com/crowww/a-large-scale-fish-dataset
 
 
-[^5]:  
+[^5]:  Campbell, M. D., Salisbury, J., Caillouet, R., Driggers, W. B., and Kilfoil, J. (2018). Camera field-of-view and fish abundance estimation: A comparison of individual-          based model output and empirical data. J./ Exp. Mar. Biol. Ecol. 501, 46–53. [Online resource]
 
 
 [^6]: 
