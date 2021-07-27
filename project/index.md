@@ -72,24 +72,19 @@ Deep learning methods provide a faster, cheaper, and more accurate alternative t
 
 ## 6. References
 
-[^1]:  McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) “Fish extinction alter nutrient recycling in tropical freshwaters” [ Online resource]
-       https://www.pnas.org/content/104/11/4461
+[^1]:  McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) “Fish extinction alter nutrient recycling in tropical freshwaters”, [Online resource]
+       <https://www.pnas.org/content/104/11/4461>
 
-[^2]:  National Geographic Society (2021) "Ocean" [Online resource]
-       https://www.nationalgeographic.org/encyclopedia/ocean/
+[^2]:  National Geographic Society (2021) "Ocean", [Online resource]
+       <https://www.nationalgeographic.org/encyclopedia/ocean/>
 
 [^3]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
-      <https://github.com/cloudmesh/cloudmesh-common>
+      <https://github.com/cloudmesh/cloudmesh-common>,      <https://www.frontiersin.org/articles/10.3389/fmars.2020.00429/full>
       
-      https://www.frontiersin.org/articles/10.3389/fmars.2020.00429/full
-      
-[^4]:  Ulucan, D. Karakaya, M. Turkan Department of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey Corresponding author: M. Turkan 
-       https://www.kaggle.com/crowww/a-large-scale-fish-dataset
+[^4]:  Ulucan, D. Karakaya, M. Turkan Department of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey Corresponding author: M. Turkan,  <https://www.kaggle.com/crowww/a-large-scale-fish-dataset>
 
 
 [^5]:  Campbell, M. D., Salisbury, J., Caillouet, R., Driggers, W. B., and Kilfoil, J. (2018). Camera field-of-view and fish abundance estimation: A comparison of individual-          based model output and empirical data. J./ Exp. Mar. Biol. Ecol. 501, 46–53. [Online resource]
 
-
-[^6]: 
       
 
