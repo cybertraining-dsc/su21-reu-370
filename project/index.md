@@ -48,7 +48,7 @@ I used two datasets in my project. The first dataset includes the pictures that 
 The link to access the dataset I used from kaggle is https://www.kaggle.com/crowww/a-large-scale-fish-dataset
 
 
-## 3.1. Sample of Images of Personal Dataset
+## 3.1. Sample of Images from Personal Dataset
 
 <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1566.jpg" width="30%"> <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1583.jpg" width="30%"> <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1453.jpg" width="30%">
 
