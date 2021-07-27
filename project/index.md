@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Project: Fish Classification Using AI"
+title: "Project: Aquatic Animal Classification Using AI"
 linkTitle: "fish classification"
 tags: ["project", "reu"]
 description: "Here comes the abstract"
