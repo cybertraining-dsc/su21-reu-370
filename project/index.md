@@ -50,7 +50,7 @@ The link to access the dataset I used from kaggle is https://www.kaggle.com/crow
 
 ## 3.1. Sample of Images of Personal Dataset
 
-<img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1566.jpg" width="30%"> <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1583.jpg" width="30%"> <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1453.jpg" width="30%">
+<img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1566.jpg" width="30%"> <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1583.jpg" width="30%"> <img src="https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-370/main/project/images/IMG_1574.jpg" width="30%">
 
 **Figure 1:** These images are samples of my personal data which is made up of images of fishes taken at the Georgia Acquarium.
 
