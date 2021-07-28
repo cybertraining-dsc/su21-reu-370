@@ -64,7 +64,7 @@ Left to right: Banded Archerfish, Lionfish, and Red Piranha
 
 ## 4. Conclusion
 
-Deep learning methods provide a faster, cheaper, and more accurate alternative to manual data analysis methods currently used to monitor and assess animal abundance and have much to offer the field of aquatic ecology.
+Deep learning methods provide a faster, cheaper, and more accurate alternative to manual data analysis methods currently used to monitor and assess animal abundance and have much to offer the field of aquatic ecology. I was able to create a model to prove that we can use AI to efficiently detect and classify marine animals. 
 
 
 ## 5. Acknowledgments
