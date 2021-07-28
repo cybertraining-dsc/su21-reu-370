@@ -21,7 +21,7 @@ Timia Williams, [su21-reu-370](https://github.com/cybertraining-dsc/su21-reu-370
 {{% pageinfo %}}
 
 ## Abstract
-Marine animals play an important role in the ecosystem.  Aquatic animals play an important role in nutrient cycles because they store a large proportion of ecosystem nutrients in their tissues, transport nutrients farther than other aquatic animals and excrete nutrients in dissolved forms that are readily available to primary producers. Fish images are captured by scuba divers, tourist, or underwater submarines. different angles of fishes image can be very difficult to get because of the constant movement of the fish. In addition to getting the right angles, the images of marine animals are usually low-quality because of the water. Underwater cameras that is required for a good quality image can be expensive. Using AI could potentially increase the marine population by the help of classification by testing the usage of machine learning using the images obtained from the aquarium combined with advanced technology. We collect 164 fish images data from Georgia acquarium to look at the different movements. 
+Marine animals play an important role in the ecosystem.  "Aquatic animals play an important role in nutrient cycles because they store a large proportion of ecosystem nutrients in their tissues, transport nutrients farther than other aquatic animals and excrete nutrients in dissolved forms that are readily available to primary producers" (Vanni MJ 1) Fish images are captured by scuba divers, tourist, or underwater submarines. different angles of fishes image can be very difficult to get because of the constant movement of the fish. In addition to getting the right angles, the images of marine animals are usually low-quality because of the water. Underwater cameras that is required for a good quality image can be expensive. Using AI could potentially increase the marine population by the help of classification by testing the usage of machine learning using the images obtained from the aquarium combined with advanced technology. We collect 164 fish images data from Georgia acquarium to look at the different movements. 
 
 Contents
 
@@ -33,7 +33,7 @@ Contents
 
 ## 1. Introduction
 
-It can be challenging to obtain a large number of different complex species in a single aquatic environment. Traditionally, it would take marine biologists years to collect the data and successfully classify the type of species obtained [1]. Scientist says that more than 90 percent of the ocean's species are still undiscovered, with some estimating that there are anywhere between a few hundred thousand and a few million more to be discovered" (National Geographic Society). Currently, scientists know of around 226,000 ocean species.   Now and days, Artificial intelligence and machine learning have been well used for detection and classification in images. In this project, I will propose to use machine learning techniques to analyze the images obtained from the Georgia Aquarium to identify legal and illegal fishing. 
+It can be challenging to obtain a large number of different complex species in a single aquatic environment. Traditionally, it would take marine biologists years to collect the data and successfully classify the type of species obtained [1]. Scientist says that more than 90 percent of the ocean's species are still undiscovered, with some estimating that there are anywhere between a few hundred thousand and a few million more to be discovered" (National Geographic Society). Currently, scientists know of around 226,000 ocean species. Now and days, Artificial intelligence and machine learning has been used for detection and classification in images. In this project, I will propose to use machine learning techniques to analyze the images obtained from the Georgia Aquarium to identify legal and illegal fishing. 
 
 
 ## 2. Machine learning in fish species.  
@@ -66,9 +66,12 @@ Deep learning methods provide a faster, cheaper, and more accurate alternative t
 
 
 ## 5. Acknowledgments
-
- 
-
+Special thanks to these people that helped me with this paper:
+Gregor von Laszewski 
+Yohn Jairo 
+Carlos Theran
+Jacques Fleischer 
+Victor Adankai
 
 ## 6. References
 
@@ -81,10 +84,10 @@ Deep learning methods provide a faster, cheaper, and more accurate alternative t
 [^3]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>,      <https://www.frontiersin.org/articles/10.3389/fmars.2020.00429/full>
       
-[^4]:  Ulucan, D. Karakaya, M. Turkan Department of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey Corresponding author: M. Turkan,  <https://www.kaggle.com/crowww/a-large-scale-fish-dataset>
-
+[^4]:  Ulucan, D. Karakaya, M. Turkan Department of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey Corresponding author: M. Turkan, [Online Resource]  <https://www.kaggle.com/crowww/a-large-scale-fish-dataset>
 
 [^5]:  Campbell, M. D., Salisbury, J., Caillouet, R., Driggers, W. B., and Kilfoil, J. (2018). Camera field-of-view and fish abundance estimation: A comparison of individual-          based model output and empirical data. J./ Exp. Mar. Biol. Ecol. 501, 46–53. [Online resource]
 
+[^6]: Vanni MJ. Annu Rev Ecol Syst. 2002;33:341–370 [Online Resource] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838623/
       
 
