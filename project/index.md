@@ -92,5 +92,4 @@ Victor Adankai
 [^5]:  Campbell, M. D., Salisbury, J., Caillouet, R., Driggers, W. B., and Kilfoil, J. (2018). Camera field-of-view and fish abundance estimation: A comparison of individual-          based model output and empirical data. J./ Exp. Mar. Biol. Ecol. 501, 46–53. [Online resource]
 
 [^6]: Vanni MJ. Annu Rev Ecol Syst. 2002;33:341–370 [Online Resource] <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838623/>
-    
 
