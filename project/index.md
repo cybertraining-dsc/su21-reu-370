@@ -34,19 +34,18 @@ Contents
 
 ## 1. Introduction
 
-It can be challenging to obtain a large number of different complex species in a single aquatic environment. Traditionally, it would take marine biologists years to collect the data and successfully classify the type of species obtained [1]. Scientist says that more than 90 percent of the ocean's species are still undiscovered, with some estimating that there are anywhere between a few hundred thousand and a few million more to be discovered" (National Geographic Society). Currently, scientists know of around 226,000 ocean species. Now and days, Artificial intelligence and machine learning has been used for detection and classification in images. In this project, I will propose to use machine learning techniques to analyze the images obtained from the Georgia Aquarium to identify legal and illegal fishing. 
+It can be challenging to obtain a large number of different complex species in a single aquatic environment. Traditionally, it would take marine biologists years to collect the data and successfully classify the type of species obtained [1]. Scientist says that more than 90 percent of the ocean's species are still undiscovered, with some estimating that there are anywhere between a few hundred thousand and a few million more to be discovered" (National Geographic Society). Currently, scientists know of around 226,000 ocean species. Now and days, Artificial intelligence and machine learning has been used for detection and classification in images. In this project, We will propose to use machine learning techniques to analyze the images obtained from the Georgia Aquarium to identify legal and illegal fishing. 
 
 
 ## 2. Machine learning in fish species.
 
-Aquatic ecologists often count animals to keep up the population count of providing critical conservation and management. Since the creation of underwater cameras and other recording equipment, underwater devices have allowed scientists to safely and efficiently classify fishes images without the disadvantages of manually entering data, ultimately saving lots of time, labor, and money. The use of machine learning to automate image processing has its benefits but has rarely been adopted in aquatic studies. With using efforts to use deep learning methods, the classification of specific species could potentially increase. In fact, there is a study done in Australia's ocean waters that classification of fish through deep learning was more efficient that manual human classification. In the study to test the abundance of different species, "The computer’s performance in determining abundance was 7.1% better than human marine experts and 13.4% better than citizen scientists in single image test datasets, and 1.5 and 7.8% higher in video datasets, respectively" (Campbell, M. D.). This remarkably explain that using machiene learning in marine animals is a better method than a manually classifying Aquatic animals Not only is it good for classification, it will be used to answer broader questions such as population count, the location of species, its abundance, and how it appears to be thriving. Since Machine learning and deep learning are often defined as one, both learning methods will be used to analyze the images and find patterns on my data.      
-
-   
+Aquatic ecologists often count animals to keep up the population count of providing critical conservation and management. Since the creation of underwater cameras and other recording equipment, underwater devices have allowed scientists to safely and efficiently classify fishes images without the disadvantages of manually entering data, ultimately saving lots of time, labor, and money. The use of machine learning to automate image processing has its benefits but has rarely been adopted in aquatic studies. With using efforts to use deep learning methods, the classification of specific species could potentially increase. In fact, there is a study done in Australia's ocean waters that classification of fish through deep learning was more efficient that manual human classification. In the study to test the abundance of different species, "The computer’s performance in determining abundance was 7.1% better than human marine experts and 13.4% better than citizen scientists in single image test datasets, and 1.5 and 7.8% higher in video datasets, respectively" (Campbell, M. D.). This remarkably explain that using machiene learning in marine animals is a better method than a manually classifying Aquatic animals Not only is it good for classification, it will be used to answer broader questions such as population count, the location of species, its abundance, and how it appears to be thriving. Since Machine learning and deep learning are often defined as one, both learning methods will be used to analyze the images and find patterns on my data.
+ 
 ## 3. Datasets
 
-I used two datasets in my project. The first dataset includes the pictures that I took at the Georgia Acquarium. That dataset was used for testing. The second dataset used was a fish dataset from kaggle which contains 9 different seafood types (Black Sea Sprat, Gilt-Head Bream, Hourse Mackerel, Red Mullet, Red Sea Bream, Sea Bass, Shrimp, Striped Red Mullet, Trout). For each type, there are 1000 augmented images and their pair-wise augmented ground truths.
+We used two datasets in my project. The first dataset includes the pictures that I took at the Georgia Acquarium. That dataset was used for testing. The second dataset used was a fish dataset from kaggle which contains 9 different seafood types (Black Sea Sprat, Gilt-Head Bream, Hourse Mackerel, Red Mullet, Red Sea Bream, Sea Bass, Shrimp, Striped Red Mullet, Trout). For each type, there are 1000 augmented images and their pair-wise augmented ground truths.
 
-The link to access the dataset I used from kaggle is https://www.kaggle.com/crowww/a-large-scale-fish-dataset
+The link to access the dataset I used from kaggle is <https://www.kaggle.com/crowww/a-large-scale-fish-dataset>
 
 
 ## 3.1. Sample of Images of Personal Dataset
@@ -65,10 +64,11 @@ Left to right: Banded Archerfish, Lionfish, and Red Piranha
 
 ## 4. Conclusion
 
-Deep learning methods provide a faster, cheaper, and more accurate alternative to manual data analysis methods currently used to monitor and assess animal abundance and have much to offer the field of aquatic ecology. I was able to create a model to prove that we can use AI to efficiently detect and classify marine animals. 
+Deep learning methods provide a faster, cheaper, and more accurate alternative to manual data analysis methods currently used to monitor and assess animal abundance and have much to offer the field of aquatic ecology. We was able to create a model to prove that we can use AI to efficiently detect and classify marine animals. 
 
 
 ## 5. Acknowledgments
+
 Special thanks to these people that helped me with this paper:
 Gregor von Laszewski 
 Yohn Jairo 
@@ -78,7 +78,7 @@ Victor Adankai
 
 ## 6. References
 
-[^1]:  McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) “Fish extinction alter nutrient recycling in tropical freshwaters”, [Online resource]
+[^1]:  McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) "Fish extinction alter nutrient recycling in tropical freshwaters", [Online resource]
        <https://www.pnas.org/content/104/11/4461>
 
 [^2]:  National Geographic Society (2021) "Ocean", [Online resource]
@@ -86,11 +86,11 @@ Victor Adankai
 
 [^3]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>,      <https://www.frontiersin.org/articles/10.3389/fmars.2020.00429/full>
-      
+
 [^4]:  Ulucan, D. Karakaya, M. Turkan Department of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey Corresponding author: M. Turkan, [Online Resource]  <https://www.kaggle.com/crowww/a-large-scale-fish-dataset>
 
 [^5]:  Campbell, M. D., Salisbury, J., Caillouet, R., Driggers, W. B., and Kilfoil, J. (2018). Camera field-of-view and fish abundance estimation: A comparison of individual-          based model output and empirical data. J./ Exp. Mar. Biol. Ecol. 501, 46–53. [Online resource]
 
-[^6]: Vanni MJ. Annu Rev Ecol Syst. 2002;33:341–370 [Online Resource] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838623/
-      
+[^6]: Vanni MJ. Annu Rev Ecol Syst. 2002;33:341–370 [Online Resource] <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838623/>
+    
 
