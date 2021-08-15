@@ -1,7 +1,7 @@
 ---
 date: 2021-06-16
 title: "Project: Aquatic Animals Classification Using AI"
-linkTitle: "fish classification"
+linkTitle: fish classification
 tags: ["project", "reu"]
 description: "Marine animals play an important role in the ecosystem.  "Aquatic animals play an important role in nutrient cycles because they store a large proportion of ecosystem nutrients in their tissues, transport nutrients farther than other aquatic animals and excrete nutrients in dissolved forms that are readily available to primary producers" (Vanni MJ 1) Fish images are captured by scuba divers, tourist, or underwater submarines. different angles of fishes image can be very difficult to get because of the constant movement of the fish. In addition to getting the right angles, the images of marine animals are usually low-quality because of the water. Underwater cameras that is required for a good quality image can be expensive. Using AI could potentially increase the marine population by the help of classification by testing the usage of machine learning using the images obtained from the aquarium combined with advanced technology. We collect 164 fish images data from Georgia acquarium to look at the different movements."
 author: Timia Williams
@@ -73,18 +73,20 @@ Victor Adankai
 
 ## 6. References
 
-[^1]:  McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) "Fish extinction alter nutrient recycling in tropical freshwaters", [Online resource]
-       <https://www.pnas.org/content/104/11/4461>
+[^1]: McIntyre P.B., Jones L.E., Flecker S.A., Vanni M.J. (2007) "Fish extinction alter nutrient recycling in tropical freshwaters", [Online resource]
+      <https://www.pnas.org/content/104/11/4461>
 
-[^2]:  National Geographic Society (2021) "Ocean", [Online resource]
-       <https://www.nationalgeographic.org/encyclopedia/ocean/>
+[^2]: National Geographic Society (2021) "Ocean", [Online resource]
+      <https://www.nationalgeographic.org/encyclopedia/ocean/>
 
 [^3]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
-      <https://github.com/cloudmesh/cloudmesh-common>,      <https://www.frontiersin.org/articles/10.3389/fmars.2020.00429/full>
+      <https://github.com/cloudmesh/cloudmesh-common>, <https://www.frontiersin.org/articles/10.3389/fmars.2020.00429/full>
 
-[^4]:  Ulucan, D. Karakaya, M. Turkan Department of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey Corresponding author: M. Turkan, [Online Resource]  <https://www.kaggle.com/crowww/a-large-scale-fish-dataset>
+[^4]: Ulucan, D. Karakaya, M. Turkan Department of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey Corresponding author: M. Turkan, [Online resource]
+      <https://www.kaggle.com/crowww/a-large-scale-fish-dataset>
 
-[^5]:  Campbell, M. D., Salisbury, J., Caillouet, R., Driggers, W. B., and Kilfoil, J. (2018). Camera field-of-view and fish abundance estimation: A comparison of individual-based model output and empirical data. J./ Exp. Mar. Biol. Ecol. 501, 46–53. [Online resource]
+[^5]: Campbell, M. D., Salisbury, J., Caillouet, R., Driggers, W. B., and Kilfoil, J. (2018). Camera field-of-view and fish abundance estimation: A comparison of individual-based model output and empirical data. J./ Exp. Mar. Biol. Ecol. 501, 46–53. [Online resource]
 
-[^6]: Vanni MJ. Annu Rev Ecol Syst. 2002;33:341–370 [Online Resource] <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838623/>
+[^6]: Vanni MJ. Annu Rev Ecol Syst. 2002;33:341–370 [Online resource] 
+      <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838623/>
 
