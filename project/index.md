@@ -2,7 +2,7 @@
 date: 2021-06-16
 title: "Project: Aquatic Animals Classification Using AI"
 linkTitle: "fish classification"
-tags: ["project", "reu", "ai", "biology, "detection"]
+tags: ["project", "reu", "ai", "biology"]
 description: "Here comes the abstract"
 author: Timia Williams
 github_url: https://github.com/cybertraining-dsc/su21-reu-370/edit/main/project/index.md
