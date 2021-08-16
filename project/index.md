@@ -1,8 +1,8 @@
 ---
 date: 2021-06-16
-title: "Project: Aquatic Animals Classification Using AI"
+title: "Report: Aquatic Animals Classification Using AI"
 linkTitle: Fish Classification
-tags: ["project", "reu", "ai", "biology"]
+tags: ["report", "reu", "ai", "biology"]
 description: "Marine animals play an important role in the ecosystem. 'Aquatic animals play an important role in nutrient cycles because they store a large proportion of ecosystem nutrients in their tissues, transport nutrients farther than other aquatic animals and excrete nutrients in dissolved forms that are readily available to primary producers' (Vanni MJ 1) Fish images are captured by scuba divers, tourist, or underwater submarines. different angles of fishes image can be very difficult to get because of the constant movement of the fish. In addition to getting the right angles, the images of marine animals are usually low-quality because of the water. Underwater cameras that is required for a good quality image can be expensive. Using AI could potentially increase the marine population by the help of classification by testing the usage of machine learning using the images obtained from the aquarium combined with advanced technology. We collect 164 fish images data from Georgia acquarium to look at the different movements."
 author: Timia Williams
 github_url: https://github.com/cybertraining-dsc/su21-reu-370/edit/main/project/index.md
@@ -13,7 +13,7 @@ resources:
 
 [![Check Report](https://github.com/cybertraining-dsc/su21-reu-370/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-370/actions)
 [![Status](https://github.com/cybertraining-dsc/su21-reu-370/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-370/actions)
-Status: draft, Type: Project
+Status: final, Type: Report
 
 
 Timia Williams, [su21-reu-370](https://github.com/cybertraining-dsc/su21-reu-370), [Edit](https://github.com/cybertraining-dsc/su21-reu-370/blob/main/project/index.md)
