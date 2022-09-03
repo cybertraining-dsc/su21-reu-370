@@ -65,11 +65,15 @@ Deep learning methods provide a faster, cheaper, and more accurate alternative t
 ## 5. Acknowledgments
 
 Special thanks to these people that helped me with this paper:
-Gregor von Laszewski 
-Yohn Jairo 
-Carlos Theran
-Jacques Fleischer 
-Victor Adankai
+Gregor von Laszewski, 
+Yohn Jairo,
+Carlos Theran,
+Jacques Fleischer, and 
+Victor Adankai.
+
+This project was in part supported by the NSF grant
+CyberTraining: CIC: CyberTraining for Students and Technologies
+from Generation Z with the awadrd numbers 1829704 and 2200409.
 
 ## 6. References
 
